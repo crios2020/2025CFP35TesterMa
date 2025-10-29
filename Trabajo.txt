@@ -1,2 +1,10 @@
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+Trabajo Práctico
+
+https://servicios.usig.buenosaires.gob.ar/normalizar
+
+- Dado el api usig de normalización de direcciones
+- Crear documento de suite de testeo.
+- Crear una collection en postman.
+- Realizar el testeo.
+
+- Entrega Individual, fecha estimada 12/11/2025
